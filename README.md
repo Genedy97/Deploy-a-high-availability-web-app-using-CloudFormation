@@ -1,4 +1,4 @@
-# Udacity Devops Engineer Nanodegree - Project 2
+# Udacity cloud Devops Engineer Nanodegree - Project 2
 
 This is an assignment for the [Udacity Devops Engineer Nanodegree](https://eu.udacity.com/course/cloud-dev-ops-nanodegree--nd9991) program.
 
